@@ -1,0 +1,7 @@
+Lab1_SGNS-WordVector/model/*
+Lab1_SGNS-WordVector/data/lmtraining.txt
+Lab2_Transformer-SequenceTag/data/tencent-ailab-embedding-zh-d100-v0.2.0-s.bin
+Lab2_Transformer-SequenceTag/data/tencent-ailab-embedding-zh-d100-v0.2.0-s.bin.vectors.npy
+Lab2_Transformer-SequenceTag/data/tencent-ailab-embedding-zh-d100-v0.2.0-s.txt
+Lab2_Transformer-SequenceTag/data/train.txt
+Lab2_Transformer-SequenceTag/data/train_TAG.txt

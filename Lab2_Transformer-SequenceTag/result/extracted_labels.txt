@@ -1,0 +1,9 @@
+I_LOC
+B_PER
+B_ORG
+I_ORG
+I_PER
+B_LOC
+O
+B_T
+I_T

@@ -5,3 +5,4 @@ Lab2_Transformer-SequenceTag/data/tencent-ailab-embedding-zh-d100-v0.2.0-s.bin.v
 Lab2_Transformer-SequenceTag/data/tencent-ailab-embedding-zh-d100-v0.2.0-s.txt
 Lab2_Transformer-SequenceTag/data/train.txt
 Lab2_Transformer-SequenceTag/data/train_TAG.txt
+FinalLab_RAG/models/
